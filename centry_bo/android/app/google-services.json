@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "649887878541",
+    "project_id": "sentry-bo-v1",
+    "storage_bucket": "sentry-bo-v1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649887878541:android:66c58deb99e1a39239c1c4",
+        "android_client_info": {
+          "package_name": "com.example.centry_bo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOOw2Tjp7TjnUYPLg3ST4yBFEVaFGZVrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649887878541:android:30b48d2b4f1ad8fb39c1c4",
+        "android_client_info": {
+          "package_name": "com.example.sentry_map"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOOw2Tjp7TjnUYPLg3ST4yBFEVaFGZVrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
